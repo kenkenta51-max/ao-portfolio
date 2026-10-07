@@ -7,7 +7,7 @@
 - `index.html` — ポートフォリオ本体
 - `style.css` — レスポンシブデザイン
 - `script.js` — スライド拡大表示
-- `assets/slides/slide-01.webp`〜`slide-10.webp` — Web表示用スライド
+- `slide-01.webp`〜`slide-10.webp` — Web表示用スライド
 
 ## Vercelへ公開
 
